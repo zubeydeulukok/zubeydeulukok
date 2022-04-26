@@ -1,6 +1,7 @@
 ## Hi there :wave:  Zübeyde is here. (LOADING...)
 - :telescope: I’m currently working on Data Science
 - :seedling: I’m currently learning Data Science tools
+- :books: General research areas: Matrix and Operator Inequalities, Matrix Equations
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
 
