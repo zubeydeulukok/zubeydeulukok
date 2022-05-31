@@ -10,6 +10,8 @@
 
 ### What I'm using ? :hammer_and_wrench:
 
+01. [x] [Data Analysis and Visualization with Python](https://github.com/zubeydeulukok/Data-Analysis-and-Visualization-with-Python)
+
 - Python, SQL, HTML5, CSS3, Git, GitHub
 - :speech_balloon: Ask  me about anything that you want to learn
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/zubeyde-ulukok/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
